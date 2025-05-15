@@ -1,3 +1,4 @@
+# square_wave_and_pulse-width_modulated_signals
 from scipy import signal
 import matplotlib.pyplot as plt
 from matplotlib import style
